@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
+    "build": "^6.0.5"
   },
   "dependencies": {
     "@fontsource/monaspace-neon": "^5.1.0",
